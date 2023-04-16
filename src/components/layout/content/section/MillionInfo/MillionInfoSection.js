@@ -13,7 +13,6 @@ function MillionInfoSection() {
           display: "flex",
           justifyContent: "center",
           flexDirection: "column",
-          justifyContent: "center",
           alignItems: "center",
         }}
       >

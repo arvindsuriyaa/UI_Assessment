@@ -5,7 +5,6 @@ import {
   DescriptionWrapper,
 } from "./carousel.styles";
 
-import img from "../../../../../asset/ETHBunny.webp";
 import { CustomButton } from "../../../../common/Button/button.styles";
 // import { url } from "inspector";
 
